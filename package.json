@@ -1,0 +1,15 @@
+{
+  "name": "typescript-base",
+  "version": "1.0.0",
+  "description": "TypeScript base",
+  "scripts": {
+    "start":"parcel src/index.html --open",
+    "build":"parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "i320",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}
